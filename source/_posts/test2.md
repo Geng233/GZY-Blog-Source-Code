@@ -1,1 +1,0 @@
-![have space pic](./markdown-img/test2/have%20space%20pic.jpg)![pic](./markdown-img/test2/pic.jpg)
