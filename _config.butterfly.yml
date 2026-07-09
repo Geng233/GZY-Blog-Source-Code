@@ -23,6 +23,7 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   音乐: /music/ || fas fa-music
+  留言板: /comments || fas fa-comment
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
@@ -99,7 +100,8 @@ footer_img: '#6b8ba4'
 # Can set it to color, image URL or an array containing colors and/or image URLs
 # If an array is provided, a random background will be selected from the array on each load
 # background: 'linear-gradient(180deg, #e0855a 0%, #d07048 25%, #b8603c 50%, #a05030 75%, #884024 100%)'
-background: 'linear-gradient(180deg, #e0855a 0%, #dc8257 25%, #d87e54 50%, #d67a51 75%, #d4754a 100%)'
+# background: 'linear-gradient(180deg, #e0855a 0%, #dc8257 25%, #d87e54 50%, #d67a51 75%, #d4754a 100%)'
+background: /img/Missed Messages/Missed Messages4.jpg
 cover:
   # Disable the cover or not
   index_enable: true
@@ -501,8 +503,12 @@ math:
 search:
   # Choose: algolia_search / local_search / docsearch
   # leave it empty if you don't need search
-  use:
-  placeholder:
+  use: local_search
+  placeholder: '请输入关键词'
+  path: search.xml
+  field: post
+  content: true
+  template: ./search.xml
 
   # Algolia Search
   algolia_search:
@@ -936,7 +942,7 @@ clickShowText:
 # https://github.com/francoischalifour/medium-zoom
 # https://fancyapps.com/fancybox/
 # Leave it empty if you don't need lightbox
-lightbox: Medium Zoom
+lightbox: fancybox
 
 # --------------------------------------
 # Tag Plugins settings
@@ -1086,9 +1092,12 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
+    - <link rel="stylesheet" href="/css/universe.css">
   bottom:
     # - <script src="xxxx"></script>
-
+    - <canvas id="universe"></canvas>
+    - <script defer src="/js/universe.js"></script>
 # CDN Settings
 # Don't modify the following settings unless you know how they work
 CDN:

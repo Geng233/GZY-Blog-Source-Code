@@ -3,9 +3,9 @@ title: STP协议
 date: 2026-07-05
 tags:
  - 计算机网络
- - DATACOM
+ - HUAWEI DATACOM
  - STP协议
-categories: DATACOM
+categories: HUAWEI DATACOM
 ---
 
 为了提高网络可靠性，交换网络中通常会使用冗余链路，冗余链路会给交换网络带来环路风险。生成树协议STP（Spanning Tree Protocol）就是在提高网络可靠性的同时，避免环路的种种问题。
