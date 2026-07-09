@@ -39,7 +39,7 @@
 }
 
 /* 侧边栏个人信息卡片动态渐变色 */
-#aside-content>.card-widget.card-info {
+[data-theme="light"] #aside-content>.card-widget.card-info {
     background: linear-gradient(-45deg,
             #e8d8b9,
             #eccec5,
@@ -97,6 +97,7 @@
 [data-theme="dark"] #post-info {
   animation: light_5px 10s linear infinite;
 }
+
 /* 关键帧描述 */
 @keyframes light_15px {
   0% {
