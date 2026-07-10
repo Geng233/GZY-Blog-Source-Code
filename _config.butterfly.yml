@@ -109,27 +109,55 @@ cover:
   archives_enable: true
   # When cover is not set, the default cover is displayed
   default_cover:
-  - https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=400&h=400&fit=crop
-  - https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=400&fit=crop
+    - /img/background-img/background1.jpg
+    - /img/background-img/background2.jpg
+    - /img/background-img/background3.jpg
+    - /img/background-img/background4.jpg
+    - /img/background-img/background5.jpg
+    - /img/background-img/background6.jpg
+    - /img/background-img/background7.jpg
+    - /img/background-img/background8.jpg
+    - /img/background-img/background9.jpg
+    - /img/background-img/background10.jpg
+    - /img/background-img/background11.jpg
+    - /img/background-img/background12.jpg
+    - /img/background-img/background13.jpg
+    - /img/background-img/background14.jpg
+    - /img/background-img/background15.jpg
+    - /img/background-img/background16.jpg
+    - /img/background-img/background17.jpg
+    - /img/background-img/background18.jpg
+    - /img/background-img/background19.jpg
+    - /img/background-img/background20.jpg
+    - /img/background-img/background21.jpg
+    - /img/background-img/background22.jpg
+    - /img/background-img/background23.jpg
+    - /img/background-img/background24.jpg
+    - /img/background-img/background25.jpg
+    - /img/background-img/background26.jpg
+    - /img/background-img/background27.jpg
+    - /img/background-img/background28.jpg
+  # - https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1591799264318-7e6ef8ddb7ea?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1537498425277-c283d32ef9db?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1525547719571-a2d4ac8945e2?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?w=400&h=400&fit=crop
+  # - https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=400&h=400&fit=crop
 
 
 
