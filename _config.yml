@@ -105,6 +105,16 @@ deploy:
   repo: git@github.com:Geng233/Geng233.github.io.git
   branch: main
 
+kramed:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
+
+
 # ----------------------------------以下是插件或自定义的配置项目------------------------------------
 # ----------------------------------以下是插件或自定义的配置项目------------------------------------
 # ----------------------------------以下是插件或自定义的配置项目------------------------------------
